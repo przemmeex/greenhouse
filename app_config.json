@@ -1,0 +1,13 @@
+{
+    "dayStart": "6:00:00",
+    "dayDuration": "12:00:00",
+    "fanTurningTreshold": 29,
+    "fanTurnOffTreshold": 27,
+    "redingStepTime": 300,
+    "connectionString": {
+	    "host": "127.0.0.1",
+	    "user": "",
+	    "password": "",
+	    "dbname": ""
+    }
+}
